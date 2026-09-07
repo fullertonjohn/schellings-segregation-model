@@ -2,10 +2,6 @@
 
 An independent project implementing Thomas Schelling's classic model of residential segregation from scratch in Python, exploring how a simple neighbor-similarity preference produces large-scale segregation patterns. The finished deliverable is an interactive Streamlit simulation.
 
-## Status
-
-This project is no longer under active development. It started with a broader goal — modeling inter-party neighbor tolerance among voter blocs and analyzing the resulting data in STATA — which was not carried through. What was completed, and is the project's output, is the interactive simulation (`interactive.py`) and the exploratory notebooks and example dataset behind it.
-
 ## Try it
 
 ```
